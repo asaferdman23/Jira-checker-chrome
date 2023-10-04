@@ -11,10 +11,12 @@ globalStyles.innerHTML = `
   position: fixed;
   left: 0;
   top: 0;
-  width: 300px;
-  height: 100vh;
+  width: 120dp;
+  height: 120dp;
   background: #ffffff;
   border-right: 1px solid #c2c2c2;
+  border-radius: 3px;
+  layout-block_-_display: block;
   z-index: 999999999;
   }
 `;
